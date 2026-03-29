@@ -2119,10 +2119,10 @@
 		(at 106.6 88.35 180)
 		(descr "Connector XT60 Horizontal PCB Female, https://www.tme.eu/Document/b13629717d44ae038681dba08d18c0b6/XT60PW-M.pdf")
 		(tags "RC Connector XT60")
-		(property "Reference" "L2"
+		(property "Reference" "L3"
 			(at 3.5 -15.5 0)
 			(layer "F.SilkS")
-			(uuid "ca2f4c6d-d510-4b7c-9d15-89884946efc7")
+			(uuid "01217331-f2d1-439f-bc19-7297e5d5edf4")
 			(effects
 				(font
 					(size 1 1)
@@ -2133,7 +2133,7 @@
 		(property "Value" "24v input"
 			(at 3.6 4 0)
 			(layer "F.Fab")
-			(uuid "f1069e41-c0ff-4722-a864-99a2bb770e9a")
+			(uuid "7bd3d1ed-a580-4596-bd18-61394f2e1021")
 			(effects
 				(font
 					(size 1 1)
@@ -2146,7 +2146,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "04bf6bd9-8de1-4b84-9460-6719edcd7e5d")
+			(uuid "17d1801c-d2ca-4b73-b57e-fccb54cae5a6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2159,7 +2159,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b15f771-0ba0-49e2-8521-9f8530f4c17f")
+			(uuid "4902fcc2-58ef-45e4-8043-f6431347e9ac")
 			(effects
 				(font
 					(size 1.27 1.27)
