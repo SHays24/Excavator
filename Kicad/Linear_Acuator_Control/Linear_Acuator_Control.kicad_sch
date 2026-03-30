@@ -4159,7 +4159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "ESP32-S3-DevKitC"
+		(property "Value" "ESP32-S3-WROOM"
 			(at 83.4233 142.24 0)
 			(effects
 				(font

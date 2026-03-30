@@ -2253,7 +2253,7 @@
 				)
 			)
 		)
-		(property "Value" "ESP32-S3-DevKitC"
+		(property "Value" "ESP32-S3-WROOM"
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
