@@ -1737,9 +1737,9 @@
 				)
 			)
 		)
-		(property "Value" "Linear_actuator"
-			(at 3.6 4 0)
-			(layer "F.Fab")
+		(property "Value" "Linear actuator 2"
+			(at 3.75 3 0)
+			(layer "F.SilkS")
 			(uuid "fad1d6bd-f42b-4d45-bfb4-83845db8a9c7")
 			(effects
 				(font
@@ -2761,9 +2761,9 @@
 				)
 			)
 		)
-		(property "Value" "Linear_actuator"
-			(at 3.6 4 0)
-			(layer "F.Fab")
+		(property "Value" "Linear actuator 1"
+			(at 3 3.25 0)
+			(layer "F.SilkS")
 			(uuid "d63a0027-83ec-44b1-aecc-bc74d4383ba2")
 			(effects
 				(font
@@ -3749,9 +3749,9 @@
 				)
 			)
 		)
-		(property "Value" "Linear_actuator"
+		(property "Value" "24v 20A Input"
 			(at 3.6 4 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "7bd3d1ed-a580-4596-bd18-61394f2e1021")
 			(effects
 				(font
