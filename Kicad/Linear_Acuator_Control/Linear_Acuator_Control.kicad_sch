@@ -3878,7 +3878,7 @@
 		)
 		(uuid "f8e7f1fe-1d20-4f18-9c94-baaf6a30787d")
 	)
-	(label "Net-(Q5-G)"
+	(label "GND"
 		(at 143.51 57.15 180)
 		(effects
 			(font
@@ -3888,7 +3888,17 @@
 		)
 		(uuid "0d07b1f1-4fea-4e02-b82c-a4415e200b3b")
 	)
-	(label "L1SwitchedLow"
+	(label "Speed L1"
+		(at 160.02 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "28b26fda-38aa-4798-92a8-9adfa8b5d415")
+	)
+	(label "GND"
 		(at 187.96 85.09 180)
 		(effects
 			(font
@@ -3928,7 +3938,17 @@
 		)
 		(uuid "7ed3e2e8-4379-40c2-8fad-0052e3f0662d")
 	)
-	(label "Net-(Q3-G)"
+	(label "GND"
+		(at 240.03 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bc9c9350-d204-4fd0-a3a0-9ba06571c5f5")
+	)
+	(label "Dir L1"
 		(at 143.51 88.9 180)
 		(effects
 			(font
@@ -3962,7 +3982,7 @@
 			)
 		)
 	)
-	(global_label "Speed L1"
+	(global_label "Net-(Q1-G)"
 		(shape input)
 		(at 138.43 60.96 180)
 		(fields_autoplaced yes)
@@ -4502,7 +4522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 157.099 65.278 0)
 			(hide yes)
 			(show_name no)
@@ -4763,7 +4783,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 163.195 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4853,7 +4873,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "211a1e1c-b37d-4f4b-9fdf-794420238f17")
 		(property "Reference" "L1"
 			(at 190.5 46.9899 90)
@@ -5060,7 +5080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 190.5 92.075 0)
 			(hide yes)
 			(show_name no)
@@ -5311,7 +5331,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5cf9d649-1902-4da9-a7fa-bb18da33d1ef")
 		(property "Reference" "K3"
@@ -5445,7 +5465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Vertical"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 243.84 88.265 0)
 			(hide yes)
 			(show_name no)
@@ -5747,7 +5767,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "834eb8d8-0546-4478-916e-3fe06a750db8")
 		(property "Reference" "U1"
@@ -5959,7 +5979,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "89ff3ee2-2cba-4b32-9e82-4f4979b58af0")
 		(property "Reference" "K1"
@@ -6173,7 +6193,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-523"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 213.995 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6286,7 +6306,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-2_Vertical"
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 191.77 80.645 0)
 			(hide yes)
 			(show_name no)
@@ -6625,7 +6645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 240.03 99.695 0)
 			(hide yes)
 			(show_name no)
@@ -6789,7 +6809,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d33dfe41-539f-4eb1-a349-34495990a184")
 		(property "Reference" "L2"
 			(at 240.03 46.9899 90)
